@@ -1,4 +1,4 @@
 # zero
 Stay hungry, stay foolish.
 no problem
-ok
+o_O
