@@ -2,6 +2,7 @@
  int main(){
 
 printf("hello world");
-return 0;
+printf("zero my first step "\n);
+  return 0;
 
  }
